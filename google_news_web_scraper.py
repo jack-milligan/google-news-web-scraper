@@ -1,4 +1,6 @@
 """
+Author: Jack, https://github.com/jack-milligan
+
 This script scrapes article titles from a Google News topic page, filters the titles based on a list of keywords,
 and then creates a bar chart showing the number of articles that contain each keyword. It also saves the filtered
 article titles to an Excel file.
